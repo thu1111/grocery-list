@@ -1,0 +1,44 @@
+div {
+  display: inline-block;
+  /* background-color: aqua; */
+}
+
+.smallHeadings {
+  border: solid black 2px;
+  text-align: center;
+  background-color: bisque;
+  padding: 5px;
+}
+
+.categories {
+  display: inline-block;
+  background-color: rgb(236, 236, 236);
+  width: 200px;
+  padding-left: 20px;
+  border: solid white 1px;
+  margin-top: 10px;
+}
+
+/*table {
+    display: inline-block;
+}
+
+th {
+    border: solid black 2px;
+    font-size: small;
+    text-align: center;
+    background-color: bisque;
+    width: 300px;
+}
+
+td {
+    background-color: rgb(200, 200, 200);
+    padding-left: 10px;
+    width: 150px;
+}
+
+.emptyrow {
+    background-color: white;
+    padding: 10px;
+}
+*/
